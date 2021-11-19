@@ -48,7 +48,7 @@ Webapp developed to solve the business problem suggested by Professor Alexandre�
 
 ## About
 
-💚 In this project, based on the name, age and height of the user, the body mass index is calculated and the weight range is assessed.
+💚 Develop a website that, based on some data provided by the user (amount applied monthly (P), interest rate (i) and number of monthly installments (n)), calculates the future amount saved (FV).
 
 ---
 

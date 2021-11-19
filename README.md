@@ -1,4 +1,4 @@
-<a href="https://ghenriquec.github.io/PF3_GHC/"><img src="Financiamento.png"></a>
+<a href="https://ghenriquec.github.io/PF3_GHC/"><img src="src/images/Financiamento.png"></a>
 
 <h3 align="center">
     Webapp developed to solve the business problem suggested by Professor Alexandre

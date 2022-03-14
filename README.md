@@ -94,7 +94,7 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-[![Twitter Badge](https://img.shields.io/badge/-@ghhc_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ghhc_)](https://twitter.com/ghhc_) [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ghenriquec/)](https://www.linkedin.com/in/ghenriquec/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ghenriquec/)](https://www.linkedin.com/in/ghenriquec/) 
 [![Gmail Badge](https://img.shields.io/badge/-guiihenriquecs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guiihenriquecs@gmail.com)](mailto:guiihenriquecs@gmail.com)
 
 ---

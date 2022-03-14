@@ -17,10 +17,6 @@ Webapp developed to solve the business problem suggested by Professor Alexandreð
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ghenriquec/PF3_GHC">
 
-  <a href="https://www.twitter.com/ghhc_/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fghenriquec%2Fchallenge-TPA">
-  </a>
-  
   <a href="https://github.com/ghenriquec/PF3_GHC/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ghenriquec/PF3_GHC">
   </a>
